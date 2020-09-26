@@ -1,5 +1,5 @@
 import Col from "react-bootstrap/Col";
-import Card from "react-bootstrap/Card";
+import {Card} from 'react-bootstrap';
 import React, { Component } from 'react';
 
 class Fry extends React.Component {
